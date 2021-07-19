@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Green screen world resource pack",
+    "name": "Green screen world resource pack",
+    "uuid": "c947eb85-aacf-4f0c-943f-30ff23918350",
+    "version": [1, 0, 0],
+    "min_engine_version": [ 1, 16, 200 ]
+  },
+  "modules": [
+    {
+      "description": "Green screen world resource pack",
+      "type": "resources",
+      "uuid": "bf7509bf-09ec-4808-aa45-0e96bfbb7cb9",
+      "version": [1, 0, 0]
+    }
+  ]
+}

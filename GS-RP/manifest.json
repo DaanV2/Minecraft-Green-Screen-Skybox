@@ -14,5 +14,10 @@
       "uuid": "bf7509bf-09ec-4808-aa45-0e96bfbb7cb9",
       "version": [1, 0, 0]
     }
-  ]
+  ],
+  "metadata": {
+    "authors": ["DaanV2"],
+    "license": "ISC License",
+    "url": "https://github.com/DaanV2/Minecraft-Green-Screen-Skybox"
+  }
 }
